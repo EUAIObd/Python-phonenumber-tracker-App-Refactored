@@ -177,7 +177,7 @@ We propose the following enhancements for future development:
 
 ## 9. References and Resources
 
-*   Original Project: [https://github.com/miafrancembsa/Python-phonenumber-tracker-App](https://github.com/miafrancembsa/Python-phonenumber-tracker-App)
+*   Original Project: 
 *   Alternative Project: [https://github.com/Kalebu/Python-phonenumber-tracker-App.git](https://github.com/Kalebu/Python-phonenumber-tracker-App.git)
 
 ---
